@@ -1,0 +1,105 @@
+{
+  "task_marker": "github_filesystem_pdf-tools_575",
+  "portfolio": "Vendor contracts under management by Procurement Operations",
+  "contracts": [
+    {
+      "contract_id": "CTR-2026-041",
+      "vendor": "Mercury Freight Systems, Inc.",
+      "annual_value_usd": 520000,
+      "status": "active",
+      "owner": "dana.whitfield",
+      "service": "Global freight forwarding and last-mile delivery",
+      "document": "CTR-2026-041_mercury_freight_systems.pdf",
+      "issue_number": 25,
+      "issue_title": "[CTR-2026-041] Mercury Freight Systems, Inc. — Contract Review"
+    },
+    {
+      "contract_id": "CTR-2026-042",
+      "vendor": "BlueRiver Analytics LLC",
+      "annual_value_usd": 180000,
+      "status": "active",
+      "owner": "marcus.lee",
+      "service": "Customer analytics platform and data enrichment",
+      "document": "CTR-2026-042_blueriver_analytics.pdf",
+      "issue_number": 26,
+      "issue_title": "[CTR-2026-042] BlueRiver Analytics LLC — Contract Review"
+    },
+    {
+      "contract_id": "CTR-2026-043",
+      "vendor": "Atlas Cloud Services Ltd.",
+      "annual_value_usd": 410000,
+      "status": "active",
+      "owner": "priya.nair",
+      "service": "Managed cloud hosting and disaster recovery",
+      "document": "CTR-2026-043_atlas_cloud_services.pdf",
+      "issue_number": 27,
+      "issue_title": "[CTR-2026-043] Atlas Cloud Services Ltd. — Contract Review"
+    },
+    {
+      "contract_id": "CTR-2026-044",
+      "vendor": "Northwind Logistics GmbH",
+      "annual_value_usd": 260000,
+      "status": "active",
+      "owner": "dana.whitfield",
+      "service": "Regional warehousing and inventory reconciliation",
+      "document": "CTR-2026-044_northwind_logistics.pdf",
+      "issue_number": 28,
+      "issue_title": "[CTR-2026-044] Northwind Logistics GmbH — Contract Review"
+    },
+    {
+      "contract_id": "CTR-2026-045",
+      "vendor": "Vertex Security Labs Inc.",
+      "annual_value_usd": 350000,
+      "status": "active",
+      "owner": "priya.nair",
+      "service": "Managed detection, response and penetration testing",
+      "document": "CTR-2026-045_vertex_security_labs.pdf",
+      "issue_number": 29,
+      "issue_title": "[CTR-2026-045] Vertex Security Labs Inc. — Contract Review"
+    },
+    {
+      "contract_id": "CTR-2026-046",
+      "vendor": "Cobalt Facilities Group",
+      "annual_value_usd": 95000,
+      "status": "active",
+      "owner": "marcus.lee",
+      "service": "Facilities maintenance and workplace services",
+      "document": "CTR-2026-046_cobalt_facilities_group.pdf",
+      "issue_number": 30,
+      "issue_title": "[CTR-2026-046] Cobalt Facilities Group — Contract Review"
+    },
+    {
+      "contract_id": "CTR-2026-047",
+      "vendor": "Silverline Media Partners",
+      "annual_value_usd": 75000,
+      "status": "active",
+      "owner": "dana.whitfield",
+      "service": "Brand communications and media production",
+      "document": "CTR-2026-047_silverline_media_partners.pdf",
+      "issue_number": 31,
+      "issue_title": "[CTR-2026-047] Silverline Media Partners — Contract Review"
+    },
+    {
+      "contract_id": "CTR-2026-048",
+      "vendor": "Granite Insurance Partners",
+      "annual_value_usd": 640000,
+      "status": "suspended",
+      "owner": "priya.nair",
+      "service": "Corporate liability and cyber insurance brokerage",
+      "document": "CTR-2026-048_granite_insurance_partners.pdf",
+      "issue_number": 32,
+      "issue_title": "[CTR-2026-048] Granite Insurance Partners — Contract Review"
+    },
+    {
+      "contract_id": "CTR-2026-049",
+      "vendor": "Ironwood Consulting Group",
+      "annual_value_usd": 210000,
+      "status": "terminated",
+      "owner": "marcus.lee",
+      "service": "Programme management advisory",
+      "document": "CTR-2026-049_ironwood_consulting_group.pdf",
+      "issue_number": 33,
+      "issue_title": "[CTR-2026-049] Ironwood Consulting Group — Contract Review"
+    }
+  ]
+}
